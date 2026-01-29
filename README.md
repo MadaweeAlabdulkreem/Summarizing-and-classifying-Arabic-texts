@@ -1,4 +1,3 @@
-```markdown
 # Classifying & Summarizing Arabic Text: Traditional vs. Modern NLP Approaches
 
 ## Project Overview
