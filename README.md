@@ -89,6 +89,3 @@ Model choice should depend on:
 - Task complexity
 - Available computational resources
 - Desired interpretability vs. language quality
-
-- Interpretability versus language quality
-```
